@@ -70,6 +70,4 @@ Sum of the total number of characters in each word/Total number of words
 
 
 _________________________________________________________________________________________________________________________________________________________________________
-I recived this take home assingment from one of the IT company for the role of Data Scientist associate (6 month internship)
-NOTE:- this assingment is incomolete as the website wasnt working from which i was supposed to scrape the data
 
